@@ -1,0 +1,6 @@
+# dotnet build artifacts
+bin/
+obj/
+
+# Local files
+local/
